@@ -5,3 +5,14 @@ Firstly I pulled up total cases vs total deaths for the country INDIA.
 NEXT took look at total cases vs population i.e population affected by COVID
 Thirdly we looked at countries with highest infection rate compared to population 
 Finally we looked for many more things like highest deaths and so on.
+
+
+
+Included concepts
+--Aggregation
+--Union
+--Subquires
+--Join types
+--Row numbers
+--MAx/MIN/Avg
+--
