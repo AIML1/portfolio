@@ -9,10 +9,12 @@ Finally we looked for many more things like highest deaths and so on.
 
 
 Included concepts
---Aggregation
---Union
---Subquires
---Join types
---Row numbers
+--Aggregation Functions
+--CTE's
+--Temp Tables
+--Joins
+--windows functions
+--Creating Views
+Converting Data types
 --MAx/MIN/Avg
 --
